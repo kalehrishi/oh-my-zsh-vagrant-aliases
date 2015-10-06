@@ -21,7 +21,7 @@ plugins=(git z vagrant sublime vagrantaliases)
 ```
 
 
-##shortcuts
+##Shortcuts
 | Shortcut      | Full command                    |
 | ------------- |:-------------------------------:|
 | vu            | vagrant up                      |
