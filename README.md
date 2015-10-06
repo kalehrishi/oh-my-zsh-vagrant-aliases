@@ -1,8 +1,7 @@
 # vagrantaliases
 
 
-How to install?
-===============
+##How to install?
 
 clone this in your oh my zsh plugins folder
 ```bash
@@ -20,3 +19,14 @@ Next step is enable this plugin in `.zshrc`. You just have to add it to your exi
 plugins=(git z vagrant sublime vagrantaliases)
 
 ```
+
+
+##shortcuts
+| Shortcut      | Full command                    |
+| ------------- |:-------------------------------:|
+| vu            | vagrant up                      |
+| vh            | vagrant destroy                 |
+| vpr           | vagrant global-status --prune   |
+| vbl           | vagrant box list                |
+| vidb75        | vagrant init debian75-x64-11    |
+| vidb8         | vagrant init debian81x64-00     |
