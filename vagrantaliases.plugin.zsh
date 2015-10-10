@@ -1,4 +1,5 @@
 alias vu='vagrant up'
+alias vsh='vagrant ssh'
 alias vh='vagrant halt'
 alias vd='vagrant destroy'
 alias vpr='vagrant global-status --prune'
